@@ -1,0 +1,9 @@
+Labyrinth : 10421.391602
+
+Tunnel speed/1 : 6374.681641
+Length w/ tunnel : 4322.681641
+
+Tunnel Length : 2052
+Labyrinth length w/ static tunnel path length : 6098.709961
+
+answer : 2.9720808776803118908382066276803
